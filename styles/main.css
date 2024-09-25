@@ -1,0 +1,10 @@
+.nav-bar {
+    display: flex;
+    height: 50px;
+    width: 100%;
+}
+
+.nav-bar>div {
+    background-color: green;
+    
+}
