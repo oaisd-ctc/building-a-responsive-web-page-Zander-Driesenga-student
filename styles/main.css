@@ -55,9 +55,9 @@
 /* mobile */
 @media screen and (max-width: 500px) {
     .projects-list>div {
-        background-color: #32CD32;
-        width: 100%;
+        background-color: #FFD700;
         margin-bottom: 10px;
+        width: 100%;
         min-height: 100px;
         h3, p {
             text-align: center;
